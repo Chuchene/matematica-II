@@ -144,5 +144,9 @@ a:active {
   color: blue;
   background-color: transparent;
   text-decoration: underline;
+}
 
+.meio {
+    display: flex;
+    justify-content: center;
 }
